@@ -5,7 +5,7 @@
 ## Accento New
 KWin Aurorae theme which respects the Breeze color palette
 
-<p>This theme is  based on original Accento theme:
+<p>This theme is  based on original Accento theme:<br>
 Giacomo Barazzetti - https://www.opendesktop.org/p/1233387/</p>
 
 #### New features:
